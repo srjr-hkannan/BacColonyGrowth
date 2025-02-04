@@ -26,5 +26,5 @@ To run code:
 +	The demo simulates *E.coli* colony growth for the first 10 h on a small agar region with 20 mM initial glucose concentration.
 +	To run the demo simulation, follow the instructions described in previous sections with the input file **“inputFile_20mM_SmallSimulation.txt”**.
 +	The expected output can be found in the “expected_output” folder inside the “run_sim” folder. 
-+	The runtime of the demo on a personal laptop with a AMD Ryzen 7 5800H with Radeon Graphics (3.20 GHz) processor and 16 GB RAM was ~ 2 hours. 
++	The runtime of the demo on a personal laptop with a AMD Ryzen 7 5800H with Radeon Graphics (3.20 GHz) processor and 16 GB RAM was ~ 1 hours. 
 

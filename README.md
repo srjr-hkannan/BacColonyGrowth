@@ -3,7 +3,7 @@ Code to simulate bacterial colony growth and emergent nutrient gradients
 Contact: hkannan@ucsd.edu, paul.sun@csulb.edu
 
 ### SOFTWARE DEPENDENCIES:  
-Tested with the following software versions:  
+The code has been tested with the following software versions:  
 +	**Operating system**: Ubuntu 20.04 LTS  
 + **Compiler**: g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0 and OpenMP 201511   <br/><br/>
 No non-standard hardware is required to run simulations.  

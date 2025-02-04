@@ -10,7 +10,7 @@ No non-standard hardware is required to run simulations.
 
 ### INSTALLATION GUIDE / INSTRUCTIONS FOR USE:
 To compile code:
-+ Go to the folder “run_sim”.
++ Change current working directory to the “run_sim” folder.
 + Compilation command : ```g++ ../*.cpp -fopenmp -O3 -o CompiledCode```
 
 Input file for simulation:

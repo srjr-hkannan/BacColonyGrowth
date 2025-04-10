@@ -10,7 +10,7 @@ No non-standard hardware is required to run simulations.
 
 ### INSTALLATION GUIDE / INSTRUCTIONS FOR USE:
 To compile code:
-+ Change current working directory to the “run_sim” folder.
++ Change current working directory to the “AgentBasedModel-BacColonyGrowth/run_sim” folder.
 + Compilation command : ```g++ ../*.cpp -fopenmp -O3 -o CompiledCode```
 
 Input file for simulation:
@@ -19,7 +19,7 @@ Input file for simulation:
 + Input file for full simulation of colony dynamics with 20 mM initial glucose concentration (see : https://doi.org/10.1101/2023.08.27.554977):     **inputFile_20mM_LargeSimulation.txt**
 
 To run code:  
-+ In the “run_sim” folder create a new folder named “output” to store output files of simulation.  
++ In the “AgentBasedModel-BacColonyGrowth/run_sim” folder create a new folder named “output” to store output files of simulation.  
 + Execute command: ```./CompiledCode inputFile_20mM_SmallSimulation.txt 4 output/```
   
 ### DEMO DESCRIPTION

@@ -3,7 +3,12 @@ Code to simulate bacterial colony growth and emergent nutrient gradients
 **Contact:** hkannan@ucsd.edu, paul.sun@csulb.edu
 
 ### SOFTWARE DEPENDENCIES:  
-The code has been tested with the following software versions:  
++Main agent-based hybrid reaction diffusion model used in  https://doi.org/10.1101/2023.08.27.554977 can be found in the “AgentBasedModel-BacColonyGrowth” folder. 
++Custom code used to analyze microscopy images of colonies can be found in "ImageAnalysis" folder.
++Reduced reaction-diffusion simulation to study dimension dependence of solutions to metabolite concentration can be found in "ReducedReactionDiffusionModel" folder.
+
+### SOFTWARE DEPENDENCIES:  
+The agent-based code for colony growth simulations has been tested with the following software versions:  
 +	**Operating system**: Ubuntu 20.04 LTS  
 + **Compiler**: g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0 and OpenMP 201511   <br/><br/>
 No non-standard hardware is required to run simulations.  
